@@ -1,6 +1,6 @@
-# Online Medicine Shop using NodeJS
+# Online Medical Cart 
 
-Consider about a “Online Medicine Shop” which will facilitate its users by providing a wide range of medicines at their dire necessity. The required features are: -
+Consider about a “Online Medical Cart” which will facilitate its users by providing a wide range of medicines at their dire necessity. The required features are: -
 * There will be mainly two types of user- *ADMIN* and *CUSTOMER*
 * Provide a registration page for both types of user.
 * Only valid users can log into the system.
@@ -28,14 +28,6 @@ CUSTOMER can add as many as medicines in the cart as per his/her
 requirement. Don‟t forget to add a quantity field.
 * The CUSTOMER must be able to increase or decrease the quantity of the
 medicines and remove or add more medicines to the cart.
-* After finalization of the medicines in cart CUSTOMER must be able to
-confirm the purchase request. During this phase ask CUSTOMER for the
-address.
-* Invoice regarding lists of medicines selected, corresponding price will be
-shown to the CUSTOMER and if confirmed show him/her the payment
-method. Payment method must be selected to confirm the purchase request.
-* After confirmation of payment, successful order list will be shown to the
-CUSTOMER.
 * Only the ADMIN will have the capabilities of accepting or rejecting an order
 list.
 * The ADMIN will be able to see all available purchase request details.
